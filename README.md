@@ -42,5 +42,7 @@
 * [Torch.NET](https://github.com/SciSharp/Torch.NET)
 * [Plot.NET](https://github.com/SciSharp/Plot.NET)
 * [NumSharp](https://github.com/SciSharp/NumSharp)
+* [ONNX](https://onnxruntime.ai/docs/get-started/with-csharp.html)
+* [Infer.NET](https://github.com/dotnet/infer)
 ### C++
 * [Complete list here](https://hackernoon.com/top-cc-machine-learning-libraries-for-data-science-nl183wo1)
